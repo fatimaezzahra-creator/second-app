@@ -36,7 +36,7 @@ const FormPage = () => {
   return (
     <PageLayout>
       <Header>
-        <img src="/assets/logoApp.png" alt="logo" width="60px" />
+        <h >VisionPro</h>
         <img src="https://www.pole-emc2.fr/app/uploads/2019/09/emc2-logo.png" alt="logo" width="60px" />
       </Header>
       <Main>
